@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Rubik;
+  src: url("Rubik-VariableFont_wght.ttf");
+  font-weight: auto;
+}
+
+html {
+  font-family: Rubik, sans-serif;
+}
+
